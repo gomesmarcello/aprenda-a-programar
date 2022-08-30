@@ -1,25 +1,26 @@
 let nome 
-nome = "Marcello Gomes" 
+nome = "Marcello Gomes"
+console.log(nome) 
 
 let  email
 email = "marcellog.santos@hotmail.com"
+console.log(email)
 
 let profissão
 profissão = "Motoboy"
+console.log(profissão)
 
 let idade
 idade = 45
-
-let lugar
-lugar = "Grecia" 
-
-console.log(nome)
-
-console.log(email)
-
-console.log(profissão)
-
 console.log(idade)
 
-console.log(lugar)
+let lugar
+lugar = "Grecia"
+console.log(lugar) 
+
+
+
+
+
+
 
